@@ -1,0 +1,13 @@
+C:\Projects\ExemploComposition\bin\Debug\netcoreapp3.1\ExemploComposition.exe
+C:\Projects\ExemploComposition\bin\Debug\netcoreapp3.1\ExemploComposition.deps.json
+C:\Projects\ExemploComposition\bin\Debug\netcoreapp3.1\ExemploComposition.runtimeconfig.json
+C:\Projects\ExemploComposition\bin\Debug\netcoreapp3.1\ExemploComposition.runtimeconfig.dev.json
+C:\Projects\ExemploComposition\bin\Debug\netcoreapp3.1\ExemploComposition.dll
+C:\Projects\ExemploComposition\bin\Debug\netcoreapp3.1\ExemploComposition.pdb
+C:\Projects\ExemploComposition\obj\Debug\netcoreapp3.1\ExemploComposition.csprojAssemblyReference.cache
+C:\Projects\ExemploComposition\obj\Debug\netcoreapp3.1\ExemploComposition.csproj.CoreCompileInputs.cache
+C:\Projects\ExemploComposition\obj\Debug\netcoreapp3.1\ExemploComposition.AssemblyInfoInputs.cache
+C:\Projects\ExemploComposition\obj\Debug\netcoreapp3.1\ExemploComposition.AssemblyInfo.cs
+C:\Projects\ExemploComposition\obj\Debug\netcoreapp3.1\ExemploComposition.dll
+C:\Projects\ExemploComposition\obj\Debug\netcoreapp3.1\ExemploComposition.pdb
+C:\Projects\ExemploComposition\obj\Debug\netcoreapp3.1\ExemploComposition.genruntimeconfig.cache
